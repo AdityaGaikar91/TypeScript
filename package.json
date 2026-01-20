@@ -1,4 +1,26 @@
 {
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaGaikar91/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdityaGaikar91/TypeScript/issues"
+  },
+  "homepage": "https://github.com/AdityaGaikar91/TypeScript#readme",
   "devDependencies": {
     "typescript": "^5.9.3"
   }
